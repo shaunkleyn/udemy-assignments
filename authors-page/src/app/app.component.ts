@@ -1,3 +1,4 @@
+import { AuthorsComponent } from './authors/authors.component';
 import { Component } from '@angular/core';
 
 @Component({
